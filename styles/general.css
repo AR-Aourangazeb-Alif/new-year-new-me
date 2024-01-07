@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+p{
+    color: var(#444343);
+    font-size: 1vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.625vw;
+}
+
+button{
+    padding: 1.31vw 1.56vw 1.25vw 1.625vw;
+    border-radius: 5%;
+    font-size: 1.25vw;
+    font-weight: 600;
+    color: #FFF;
+    background-color: #F15B22;
+    border: none;
+}
